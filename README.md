@@ -1,1 +1,1 @@
-Rock paper scissor game using javascript.
+Rock paper scissor game using javascript
